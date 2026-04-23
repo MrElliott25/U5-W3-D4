@@ -5,4 +5,6 @@ public class HeBellaHosaHeHaiDetto {
     private double uffa;
 
     public void uffa(double uffa){}
+
+    public void ingredibbile(){}
 }
